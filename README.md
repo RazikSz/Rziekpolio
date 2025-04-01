@@ -1,16 +1,16 @@
 # My React Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f16a267e-7689-4a90-b42c-8becaad56141/deploy-status)](https://app.netlify.com/sites/subramanyaks/deploys)
-[![GitHub license](https://img.shields.io/github/license/SubramanyaKS/MYReactApp?style=for-the-badge)](https://github.com/SubramanyaKS/MYReactApp/blob/main/LICENCE)
-[![GitHub stars](https://img.shields.io/github/stars/SubramanyaKS/MYReactApp?style=for-the-badge)](https://github.com/SubramanyaKS/MYReactApp/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/SubramanyaKS/MYReactApp?style=for-the-badge)](https://github.com/SubramanyaKS/MYReactApp/issues)
-![Repository Size](https://img.shields.io/github/repo-size/SubramanyaKS/MYReactApp?style=for-the-badge)
-![Lines of Codes](https://img.shields.io/tokei/lines/github.com/SubramanyaKS/MYReactApp?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/SubramanyaKS/MYReactApp?style=for-the-badge)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f16a267e-7689-4a90-b42c-8becaad56141/deploy-status)](https://app.netlify.com/sites/RazikSz/deploys)
+[![GitHub license](https://img.shields.io/github/license/RazikSz/MYReactApp?style=for-the-badge)](https://github.com/RazikSz/MYReactApp/blob/main/LICENCE)
+[![GitHub stars](https://img.shields.io/github/stars/RazikSz/MYReactApp?style=for-the-badge)](https://github.com/RazikSz/MYReactApp/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/RazikSz/MYReactApp?style=for-the-badge)](https://github.com/RazikSz/MYReactApp/issues)
+![Repository Size](https://img.shields.io/github/repo-size/RazikSz/MYReactApp?style=for-the-badge)
+![Lines of Codes](https://img.shields.io/tokei/lines/github.com/RazikSz/MYReactApp?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/RazikSz/MYReactApp?style=for-the-badge)
 
 <!--<img src="https://github.com/SubramanyaKS/MYReactApp/blob/main/public/images/preview.png" alt ="preview"/>-->
 
-Hello folks.This is my new portfolio using React JS UI development library. React JS uses Virtual DOM, thereby creating web applications faster. You can find my old [website](https://subramanyaks.github.io).
+Hello folks.This is my new portfolio using React JS UI development library. React JS uses Virtual DOM, thereby creating web applications faster. You can find my old [website](https://RazikSz.github.io).
 
 
 ### Features.
@@ -42,7 +42,7 @@ Hello folks.This is my new portfolio using React JS UI development library. Reac
 1. Fork the Project and clone Repository using git clone
 
 ```
-git clone https://github.com/SubramanyaKS/MyReactApp.git
+git clone https://github.com/RazikSz/Rziekpolio.git
 ```
 
 2.  Install all dependency in package.json
@@ -87,7 +87,7 @@ git push origin xyz
 
 ### Author
 
-**Subramanya K S**
+**Raziek Sz**
 
 
 ---
@@ -95,7 +95,7 @@ git push origin xyz
 
 The portfolio is deployed in netlify platform.
 
-[Portfolio](https://subramanyaks.netlify.app/)
+[Portfolio](https://rziksz.netlify.app/)
 
 ---
 ### License 📄.
